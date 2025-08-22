@@ -1,4 +1,4 @@
-# Human Resource Integrated System has SQL Injection in login_attendance2.php
+# Human Resource Integrated System has SQL Injection in log_query.php
 
 ## supplier 
 
